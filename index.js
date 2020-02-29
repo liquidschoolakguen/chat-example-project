@@ -30,7 +30,7 @@ const port = process.env.PORT || 3000;
 
 app.use(express.static(__dirname + '/public'));
 
-server.listen(port, () => console.log('server listening on port XXYY Update express konsole test7' + port));
+server.listen(port, () => console.log('server listening on port XXYY !!' + port));
 
 
 

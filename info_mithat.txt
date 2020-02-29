@@ -1,0 +1,11 @@
+
+Wie mann github push 
+
+ 1- git config --global user.name "liquidschoolakguen"
+ 2- git config --global user.email "bubu000051@gmail.com"
+ 3- git init
+ 4- git add -A
+ 5- git commit -m "hallo"
+ 6- git push -u origin master
+ 
+
