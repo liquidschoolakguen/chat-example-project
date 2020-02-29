@@ -1,5 +1,6 @@
 
-const ssl = true
+
+const ssl = false
 
 // AWS KONTO PASSWORT:     Unavejun93947
 
@@ -29,7 +30,7 @@ const port = process.env.PORT || 3000;
 
 app.use(express.static(__dirname + '/public'));
 
-server.listen(port, () => console.log('server listening on port XXYY Update express ' + port));
+server.listen(port, () => console.log('server listening on port XXYY Update express konsole test7' + port));
 
 
 
